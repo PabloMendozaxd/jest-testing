@@ -4,7 +4,8 @@
   "description": "unit testing using jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "José Mendoza",
   "license": "MIT",
